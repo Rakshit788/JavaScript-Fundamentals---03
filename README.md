@@ -1,0 +1,1 @@
+Question 7 is quite interesting and complex one as in this question we had to make a program in which the data was stored in an Maps and through this program we can add user name email and age and also we can update and delete these inputs
